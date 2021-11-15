@@ -2,6 +2,7 @@ Olá me chamo Renan !
 
 - 🔭 Atualmente estou trabalhando em uma gráfica, e estou a procura do meu primeiro estágio em programação
 - 🌱 Estou aprimorando meus aprendizados em python e banco de dados, e migrando para outras linguagens como ( PHP, HTML, JAVA SCRIPT ) 
+- 🤹 Projeto Pessoal Atual - ( Flappy Bird em Python ) 
 
 <div align="center">
   <a href="https://github.com/tolentinorenan">
